@@ -1,7 +1,7 @@
 #!/bin/bash
 
 N=""
-minsize=1
+minsize=5
 human_readable=false
 dirs=()
 
